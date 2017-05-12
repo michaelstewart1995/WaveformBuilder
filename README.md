@@ -1,5 +1,6 @@
 # WaveformBuilder
-Generates an arbitrary waveform using a modular state machine
+
+Generates an arbitrary waveform using a state machine
 
 SW Requirements:
 
